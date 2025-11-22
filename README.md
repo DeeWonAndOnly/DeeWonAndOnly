@@ -4,5 +4,4 @@ Building tools I wish existed
 Currently shipping WatchLater — a clean video bookmarking app with drag-to-reorder queue & auto-chapters
 React • TypeScript • Tailwind • Vite
 
-Former DoorDash driver → full-stack dev
 Music producer when the code finally compiles
